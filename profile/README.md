@@ -10,37 +10,37 @@ Salam hangat,
 
 # Link Group Telegram Xiaomi Indonesia
 
-> Berikut adalah list link telegram xiaomi indonesia untuk bisa join agar memudahkan pencarian anda
+> Berikut adalah list link telegram group xiaomi indonesia.
 
 ## Redmi
 
- -  [Redmi A1](https://t.me/RA1IND)
- -   [Redmi 1S](https://t.me/Redmi1S_Kaskus)
+ -   [Redmi A1 (Ice)](https://t.me/RA1IND)
+ -   [Redmi 1S (Kaskus)](https://t.me/Redmi1S_Kaskus)
  -   [Redmi 2 Prime](https://t.me/r2pindo)
  -   [Redmi 3S/X (Land)](https://t.me/LandIndonesia)
  -   [Redmi 3 Pro (Ido](https://t.me/redmIDO)
  -   [Redmi 4A (Rolex)](https://t.me/RolexIndonesia)
  -   [Redmi 4X (Santoni)](http://t.me/redmi4xindo)
  -   [Redmi 4 Prime](https://t.me/R4pOfficial)
- -   [Redmi 5A](https://telegram.me/Redmi5AID)
+ -   [Redmi 5A(Riva)](https://telegram.me/Redmi5AID)
  -   [Redmi 5 (Rosy)](https://t.me/rosy_indonesia)
  -   [Redmi 5 Plus (Vince)](https://t.me/redmi5plusindonesia)
  -   [Redmi 6 (Cereus)](https://t.me/cereusindonesia)
  -   [Redmi 6A (Cactus)](https://t.me/Cactus_Indonesia)
  -   [Redmi 6 Pro (Sakura)](https://t.me/SakuraIndonesia)
- -   [Redmi 7](https://t.me/Redmi7ID_Group)
- -   [Redmi 7A](https://t.me/R7AIndonesia)
- -   [Redmi 8](https://t.me/Redmi8ID_Group)
+ -   [Redmi 7 (Onclite)](https://t.me/Redmi7ID_Group)
+ -   [Redmi 7A (Pine)](https://t.me/R7AIndonesia)
+ -   [Redmi 8 (Olive)](https://t.me/Redmi8ID_Group)
  -   [Redmi 8A](https://t.me/Redmi8AIndonesia)
- -   [Redmi 9](https://t.me/redmi_9indonesia)
+ -   [Redmi 9 (Lancelot)](https://t.me/redmi_9indonesia)
  -   [Redmi 9A/AT/I/10A (Dandelion)](https://t.me/R9AIndonesia)  
- -   [Redmi 9C](https://t.me/Redmi9CID)
+ -   [Redmi 9C (Angelica)](https://t.me/Redmi9CID)
  -   [Redmi 9T (Juice)](https://t.me/JuiceDiscussionID)
  -   [Redmi K20 Series](https://t.me/RedmiK20ProIndonesia)
  -   [Redmi 10 2021/2022 (Selene/Selenes)](https://t.me/Redmi_10ID)  
  -   [Redmi 10A](https://t.me/Redmi_10AID)
- -   [Redmi 10C](https://t.me/Redmi_10CID)
- -   [Redmi 10 5G](https://t.me/Redmi10_5GID)
+ -   [Redmi 10C (Fog)](https://t.me/Redmi_10CID)
+ -   [Redmi 10 5G (Light)](https://t.me/Redmi10_5GID)
  
 ## Redmi Note
 
