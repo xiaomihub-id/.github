@@ -1,4 +1,4 @@
-## Xiaomi Federation Indonesia
+# [Xiaomi Federation Indonesia](https://t.me/XiaomiFederationIndonesia)
 
 👋 Halo Mi Fans yang baru bergabung, selamat datang di rumah besar kami! Kami sangat senang bisa menyambut kehadiran teman-teman di sini. Komunitas ini adalah tempat di mana semangat kebersamaan dan cinta akan teknologi Xiaomi berkumpul dalam satu wadah.
 
@@ -11,7 +11,6 @@ Salam hangat,
 # Link Group Telegram Xiaomi Indonesia
 
 > Berikut adalah list link telegram xiaomi indonesia untuk bisa join agar memudahkan pencarian anda
-# [Xiaomi Federation Indonesia](https://t.me/XiaomiFederationIndonesia)
 
 ## Redmi
 
