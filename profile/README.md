@@ -1,12 +1,9 @@
-## Hi there 👋
+## Xiaomi Federation Indonesia
 
-<!--
+👋 Halo Mi Fans yang baru bergabung, selamat datang di rumah besar kami! Kami sangat senang bisa menyambut kehadiran teman-teman di sini. Komunitas ini adalah tempat di mana semangat kebersamaan dan cinta akan teknologi Xiaomi berkumpul dalam satu wadah.
 
-**Here are some ideas to get you started:**
+>Di sini, kita saling menghargai. Jangan ragu untuk berkontribusi, bertanya, atau berbagi ide. Mari kita bangun suasana yang ramah,  berbagi pengalaman, pengetahuan, dan tentu saja, kegembiraan dalam menggunakan produk Xiaomi. Bersama-sama, kita akan menjelajahi dunia inovasi yang tak terbatas, mendukung satu sama lain, dan menciptakan ikatan yang erat.
+>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Salam hangat,
+[XFI]
