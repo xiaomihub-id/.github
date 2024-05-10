@@ -46,7 +46,7 @@ Salam hangat,
  
 ## Redmi Note
 
- -  [Redmi Note 2 ](https://t.me/joinchat/Af3bdEEx_m1u8wFaiqmrNQ)
+-   [Redmi Note 2 ](https://t.me/joinchat/Af3bdEEx_m1u8wFaiqmrNQ)
 -   [Redmi Note 3 Pro](https://t.me/RN3ProIndonesia)
 -   [Redmi Note 3 SE](http://t.me/kateindonesia)
 -   [Redmi Note 4 MTK](https://t.me/redmi_note_4x_mediatek)
@@ -104,3 +104,4 @@ Salam hangat,
  - [Xiaomi Gamers Indonesia (Gamers Harus Join)](https://t.me/XiaomiGamersID)
  - [Xiaomi Photography Indonesia](https://t.me/XiaomiPhotographyID)
  - [Xiaomi Empire (Jual Beli & Membahas Device)](https://t.me/xiaomiempire)
+ - [Mi Community Indonesia](https://t.me/MiTeleindonesia)
