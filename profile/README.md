@@ -107,7 +107,7 @@ Salam hangat,
  - [Mi Community Indonesia](https://t.me/MiTeleindonesia)
 
 # Connected Federation 
-- [XFI | Xiaomi Federation Indonesia](https://t.me/xfichat)
-- [OFI | Online Federation Indonesia](https://t.me/OFIChat)
-- [tdspya](https://t.me/tdspya)
+- XFI | Xiaomi Federation Indonesia
+- OFI | Online Federation Indonesia
 - Telegram Discipline
+- tdspya
