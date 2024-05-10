@@ -43,6 +43,8 @@ Salam hangat,
  -   [Redmi 10 5G (Light)](https://t.me/Redmi10_5GID)
  -   [Redmi 12 (Fire)](https://t.me/r12_ID)
  -   [Redmi 12C (Earth)](https://t.me/R12CIDG)
+ -   [Redmi 13 (Moon)](https://t.me/Redmi13ID)
+ -   [Redmi 13C (Gust)](https://t.me/R13C_ID)
  
 ## Redmi Note
 
@@ -68,6 +70,11 @@ Salam hangat,
 -   [Redmi Note 11 Pro 5G (Veux)](https://t.me/redminote11pro5g)
 -   [Redmi Note 12 4G (Topaz)](https://t.me/RedmiNote12Indonesia)
 -   [Redmi Note 12 Pro 5G (Ruby)](https://t.me/RN12PRO_ID)
+-   [Redmi Note 13 NFC (Sapphiren)](https://t.me/RedmiNote13Indonesia)
+-   [Redmi Note 13 5G (Iron)](https://t.me/Note135GID)
+-   [Redmi Note 13 Pro (Emerald)](https://t.me/EmeraldID)
+-   [Redmi Note 13 Pro 5G (Garnet)](https://t.me/garnetid)
+-   [Redmi Note 13 Pro+ 5G (Zircon)](https://t.me/zirconid)
 
 ## Mi/Xiaomi
 
@@ -88,7 +95,9 @@ Salam hangat,
 -   [Mi 11 Series (Venus)](https://t.me/Mi11SeriesIndonesia)
 
 ## POCO
--   [POCO C40](https://t.me/PocoC40ID)  
+
+-   [POCO C65 (Gust)](https://t.me/R13C_ID)
+-   [POCO C40 (Frost)](https://t.me/PocoC40ID)  
 -   [POCO C55 (Earth)](https://t.me/R12CIDG)
 -   [POCO F1 (Beryllium)](https://t.me/PocophoneIndonesiaOfficial)
 -   [POCO F2 Pro (LMI)](https://t.me/pocof2proindonesia)
@@ -96,8 +105,13 @@ Salam hangat,
 -   [POCO F4 (Ingres)](https://t.me/PocoF4GTID)  
 -   [POCO M3 (Juice)](https://t.me/JuiceDiscussionID)
 -   [POCO M3 Pro (Camellian)](https://t.me/CamellianIndonesia)   
+-   [POCO M4 Pro (Fleur)](https://t.me/pocom4proindonesia)
+-   [POCO M5 (Stone)](https://t.me/PocoM5ID)
+-   [Poco M6 (Moon)](https://t.me/Redmi13ID)
+-   [Poco M6 Pro (Emerald)](https://t.me/EmeraldID)
 -   [POCO X3 NFC (Surya)](https://t.me/PocoX3ID)
 -   [POCO X3 Pro (Vayu-Bhima)](https://t.me/PocoX3ProIndonesia)
+-   [POCO X6 5G (Garnet)](https://t.me/garnetid)
 
 # Beberapa Komunitas Terintegrasi
 
