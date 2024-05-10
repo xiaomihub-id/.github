@@ -41,6 +41,8 @@ Salam hangat,
  -   [Redmi 10A](https://t.me/Redmi_10AID)
  -   [Redmi 10C (Fog)](https://t.me/Redmi_10CID)
  -   [Redmi 10 5G (Light)](https://t.me/Redmi10_5GID)
+ -   [Redmi 12 (Fire)](https://t.me/r12_ID)
+ -   [Redmi 12C (Earth)](https://t.me/R12CIDG)
  
 ## Redmi Note
 
@@ -64,6 +66,8 @@ Salam hangat,
 -   [Redmi Note 11 (Spes/Spesn)](https://t.me/RN11Indonesia)
 -   [Redmi Note 11 Pro](https://t.me/RedmiNote11ProID)
 -   [Redmi Note 11 Pro 5G (Veux)](https://t.me/redminote11pro5g)
+-   [Redmi Note 12 4G (Topaz)](https://t.me/RedmiNote12Indonesia)
+-   [Redmi Note 12 Pro 5G (Ruby)](https://t.me/RN12PRO_ID)
 
 ## Mi/Xiaomi
 
@@ -85,6 +89,7 @@ Salam hangat,
 
 ## POCO
 -   [POCO C40](https://t.me/PocoC40ID)  
+-   [POCO C55 (Earth)](https://t.me/R12CIDG)
 -   [POCO F1 (Beryllium)](https://t.me/PocophoneIndonesiaOfficial)
 -   [POCO F2 Pro (LMI)](https://t.me/pocof2proindonesia)
 -   [POCO F3 (Alioth)](https://t.me/PocoF3ID)
