@@ -1,6 +1,6 @@
 # [Xiaomi Federation Indonesia](https://t.me/XiaomiFederationIndonesia)
 
-👋 Halo Mi Fans yang baru bergabung, selamat datang di rumah besar kami! Kami sangat senang bisa menyambut kehadiran teman-teman di sini. Komunitas ini adalah tempat di mana semangat kebersamaan dan cinta akan teknologi Xiaomi berkumpul dalam satu wadah.
+👋 Halo MiFans, selamat datang di rumah besar kami! Kami sangat senang bisa menyambut kehadiran teman-teman di sini. Komunitas ini adalah tempat di mana semangat kebersamaan dan cinta akan teknologi Xiaomi berkumpul dalam satu wadah.
 
 >Di sini, kita saling menghargai. Jangan ragu untuk berkontribusi, bertanya, atau berbagi ide. Mari kita bangun suasana yang ramah,  berbagi pengalaman, pengetahuan, dan tentu saja, kegembiraan dalam menggunakan produk Xiaomi. Bersama-sama, kita akan menjelajahi dunia inovasi yang tak terbatas, mendukung satu sama lain, dan menciptakan ikatan yang erat.
 >
@@ -41,10 +41,12 @@ Salam hangat,
  -   [Redmi 10A](https://t.me/Redmi_10AID)
  -   [Redmi 10C (Fog)](https://t.me/Redmi_10CID)
  -   [Redmi 10 5G (Light)](https://t.me/Redmi10_5GID)
+ -   [Redmi 12 (Fire)](https://t.me/r12_ID)
+ -   [Redmi 12C (Earth)](https://t.me/R12CIDG)
  
 ## Redmi Note
 
- -  [Redmi Note 2 ](https://t.me/joinchat/Af3bdEEx_m1u8wFaiqmrNQ)
+-   [Redmi Note 2 ](https://t.me/joinchat/Af3bdEEx_m1u8wFaiqmrNQ)
 -   [Redmi Note 3 Pro](https://t.me/RN3ProIndonesia)
 -   [Redmi Note 3 SE](http://t.me/kateindonesia)
 -   [Redmi Note 4 MTK](https://t.me/redmi_note_4x_mediatek)
@@ -64,6 +66,8 @@ Salam hangat,
 -   [Redmi Note 11 (Spes/Spesn)](https://t.me/RN11Indonesia)
 -   [Redmi Note 11 Pro](https://t.me/RedmiNote11ProID)
 -   [Redmi Note 11 Pro 5G (Veux)](https://t.me/redminote11pro5g)
+-   [Redmi Note 12 4G (Topaz)](https://t.me/RedmiNote12Indonesia)
+-   [Redmi Note 12 Pro 5G (Ruby)](https://t.me/RN12PRO_ID)
 
 ## Mi/Xiaomi
 
@@ -85,6 +89,7 @@ Salam hangat,
 
 ## POCO
 -   [POCO C40](https://t.me/PocoC40ID)  
+-   [POCO C55 (Earth)](https://t.me/R12CIDG)
 -   [POCO F1 (Beryllium)](https://t.me/PocophoneIndonesiaOfficial)
 -   [POCO F2 Pro (LMI)](https://t.me/pocof2proindonesia)
 -   [POCO F3 (Alioth)](https://t.me/PocoF3ID)
@@ -100,3 +105,10 @@ Salam hangat,
  - [Xiaomi Photography Indonesia](https://t.me/XiaomiPhotographyID)
  - [Xiaomi Empire (Jual Beli & Membahas Device)](https://t.me/xiaomiempire)
  - [Substratum Indonesia](https://t.me/substratumindonesia)
+ - [Mi Community Indonesia](https://t.me/MiTeleindonesia)
+
+# Connected Federation 
+- XFI | Xiaomi Federation Indonesia
+- OFI | Online Federation Indonesia
+- Telegram Discipline
+- tdspya
