@@ -99,3 +99,4 @@ Salam hangat,
  - [Xiaomi Gamers Indonesia (Gamers Harus Join)](https://t.me/XiaomiGamersID)
  - [Xiaomi Photography Indonesia](https://t.me/XiaomiPhotographyID)
  - [Xiaomi Empire (Jual Beli & Membahas Device)](https://t.me/xiaomiempire)
+ - [Substratum Indonesia](https://t.me/substratumindonesia)
