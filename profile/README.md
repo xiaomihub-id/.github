@@ -119,6 +119,7 @@ Salam hangat,
  - [Xiaomi Photography Indonesia](https://t.me/XiaomiPhotographyID)
  - [Xiaomi Empire (Jual Beli & Membahas Device)](https://t.me/xiaomiempire)
  - [Mi Community Indonesia](https://t.me/MiTeleindonesia)
+ - [Substratum Indonesia](https://t.me/substratumindonesia)
 
 # Connected Federation 
 - XFI | Xiaomi Federation Indonesia
