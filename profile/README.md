@@ -49,8 +49,8 @@ Salam hangat,
 ## Redmi Note
 
 -   [Redmi Note 2 ](https://t.me/joinchat/Af3bdEEx_m1u8wFaiqmrNQ)
--   [Redmi Note 3 Pro](https://t.me/RN3ProIndonesia)
--   [Redmi Note 3 SE](http://t.me/kateindonesia)
+-   [Redmi Note 3 Pro (Kenzo)](https://t.me/RN3ProIndonesia)
+-   [Redmi Note 3 SE (Kate)](http://t.me/kateindonesia)
 -   [Redmi Note 4 MTK](https://t.me/redmi_note_4x_mediatek)
 -   [Redmi Note 4X (Mido)](https://t.me/RedmiNote4XIndonesia)
 -   [Redmi Note 5A Prime (Ugg)](https://t.me/redminote_5aid)
