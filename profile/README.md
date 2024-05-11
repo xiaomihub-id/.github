@@ -111,6 +111,8 @@ Salam hangat,
 -   [Poco M6 Pro (Emerald)](https://t.me/EmeraldID)
 -   [POCO X3 NFC (Surya)](https://t.me/PocoX3ID)
 -   [POCO X3 Pro (Vayu-Bhima)](https://t.me/PocoX3ProIndonesia)
+-   [POCO X5 5G (Moonstone)](https://t.me/PocoX5Indonesia)
+-   [POCO X5 PRO (Redwood)](https://t.me/PocoX5ProIndo)
 -   [POCO X6 5G (Garnet)](https://t.me/garnetid)
 
 # Beberapa Komunitas Terintegrasi
