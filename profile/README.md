@@ -73,7 +73,7 @@ Salam hangat,
 -   [Redmi Note 13 NFC (Sapphiren)](https://t.me/RedmiNote13Indonesia)
 -   [Redmi Note 13 5G (Iron)](https://t.me/Note135GID)
 -   [Redmi Note 13 Pro (Emerald)](https://t.me/EmeraldID)
--   [Redmi Note 13 Pro 5G (Garnet)](https://t.me/garnetid)
+-   [Redmi Note 13 Pro 5G (Garnet)](https://t.me/GarnetIndonesia)
 -   [Redmi Note 13 Pro+ 5G (Zircon)](https://t.me/zirconid)
 
 ## Mi/Xiaomi
