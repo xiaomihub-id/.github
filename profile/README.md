@@ -73,7 +73,7 @@ Salam hangat,
 -   [Redmi Note 13 NFC (Sapphiren)](https://t.me/RedmiNote13Indonesia)
 -   [Redmi Note 13 5G (Iron)](https://t.me/Note135GID)
 -   [Redmi Note 13 Pro (Emerald)](https://t.me/EmeraldID)
--   [Redmi Note 13 Pro 5G (Garnet)](https://t.me/garnetid)
+-   [Redmi Note 13 Pro 5G (Garnet)](https://t.me/GarnetIndonesia)
 -   [Redmi Note 13 Pro+ 5G (Zircon)](https://t.me/zirconid)
 
 ## Mi/Xiaomi
@@ -113,7 +113,7 @@ Salam hangat,
 -   [POCO X3 Pro (Vayu-Bhima)](https://t.me/PocoX3ProIndonesia)
 -   [POCO X5 5G (Moonstone)](https://t.me/PocoX5Indonesia)
 -   [POCO X5 PRO (Redwood)](https://t.me/PocoX5ProIndo)
--   [POCO X6 5G (Garnet)](https://t.me/garnetid)
+-   [POCO X6 5G (Garnet)](https://t.me/GarnetIndonesia)
 
 # Beberapa Komunitas Terintegrasi
 
