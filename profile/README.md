@@ -102,7 +102,7 @@ Salam hangat,
 -   [POCO F1 (Beryllium)](https://t.me/PocophoneIndonesiaOfficial)
 -   [POCO F2 Pro (LMI)](https://t.me/pocof2proindonesia)
 -   [POCO F3 (Alioth)](https://t.me/PocoF3ID)
--   [POCO F4 (Munch)](https://t.me/PocoF4)
+-   [POCO F4 (Munch)](https://t.me/PocoF4ID)
 -   [POCO F4 GT (Ingres)](https://t.me/PocoF4GTID)  
 -   [POCO M3 (Juice)](https://t.me/JuiceDiscussionID)
 -   [POCO M3 Pro (Camellian)](https://t.me/CamellianIndonesia)   
