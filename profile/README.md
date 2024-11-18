@@ -46,7 +46,7 @@ Salam hangat,
  -   [Redmi 12C (Earth)](https://t.me/R12CIDG)
  -   [Redmi 13 (Moon)](https://t.me/Redmi13ID)
  -   [Redmi 13C (Gust)](https://t.me/R13C_ID)
- -   [Redmi 14C (lAKE)](https://t.me/redmi14c_indo)
+ -   [Redmi 14C (Lake)](https://t.me/redmi14c_indo)
  
 ## Redmi Note
 
