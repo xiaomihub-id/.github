@@ -95,6 +95,10 @@ Salam hangat,
 -   [Mi 10 Series (Apollo)](https://t.me/XiaomiMi10Indonesia)
 -   [Mi 10 T/Pro Series (Apollo)](https://t.me/Mi10TSeriesID)
 -   [Mi 11 Series (Venus)](https://t.me/Mi11SeriesIndonesia)
+-   [Xiaomi 12 Lite (Taoyao)](https://t.me/Xiaomi12LiteID)
+-   [Xiaomi 12 Series](https://t.me/Xiaomi12SeriesID)
+-   [Xiaomi 14T Pro (Rothko)](https://t.me/Xiaomi14TProIndonesia)
+
 
 ## POCO
 
