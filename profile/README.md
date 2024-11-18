@@ -136,7 +136,8 @@ Salam hangat,
  - [Substratum Indonesia](https://t.me/substratumindonesia)
 
 # Connected Federation 
-- XFI | Xiaomi Federation Indonesia
-- OFI | Online Federation Indonesia
-- Telegram Discipline
-- tdspya
+- XFI | Xiaomi Federation Indonesia: [Group](https://t.me/xfichat)
+- OFI | Online Federation Indonesia: [Group](https://t.me/OFIChat)
+- Telegram Discipline: [Group](https://t.me/tdfedchat)
+- tdspya: [Group](https://t.me/tdspya)
+- SFX: [Group](https://t.me/sfxchats)
