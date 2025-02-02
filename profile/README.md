@@ -77,6 +77,10 @@ Salam hangat,
 -   [Redmi Note 13 Pro (Emerald)](https://t.me/EmeraldID)
 -   [Redmi Note 13 Pro 5G (Garnet)](https://t.me/GarnetIndonesia)
 -   [Redmi Note 13 Pro+ 5G (Zircon)](https://t.me/zirconid)
+-   [Redmi Note 14 (Tanzanite)](https://t.me/RN14ID)
+-   [Redmi Note 14 5G (Beryl)](https://t.me/BerylIndonesia)
+-   [Redmi Note 14  Pro 5G (Malachite)](https://t.me/MalachiteIndonesia)
+-   [Redmi Note 14 Pro+ 5G (Amethyst)](https://t.me/RN14ProPlusID)
 
 ## Mi/Xiaomi
 
