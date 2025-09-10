@@ -130,6 +130,7 @@ Salam hangat,
 -   [POCO X5 PRO (Redwood)](https://t.me/PocoX5ProIndo)
 -   [POCO X6 5G (Garnet)](https://t.me/GarnetIndonesia)
 -   [POCO X6 Pro 5G (Duchamp)](https://t.me/pocox6proid)
+-   [POCO X7 Pro (Rodin)](https://t.me/PocoX7ProIDChat)
 
 # Beberapa Komunitas Terintegrasi
 
