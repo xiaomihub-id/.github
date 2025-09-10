@@ -145,7 +145,6 @@ Salam hangat,
 # Connected Federation 
 Federation chat group:
 - [XFI | Xiaomi Federation Indonesia](https://t.me/xfichat)
-- [OFI | Online Federation Indonesia](https://t.me/OFIChat)
 - [Telegram Discipline](https://t.me/tdfedchat)
 - [tdspya Federation](https://t.me/tdspya)
 - [SFX](https://t.me/sfxchats)
