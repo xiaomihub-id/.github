@@ -81,6 +81,10 @@ Salam hangat,
 -   [Redmi Note 14 5G (Beryl)](https://t.me/BerylIndonesia)
 -   [Redmi Note 14  Pro 5G (Malachite)](https://t.me/MalachiteIndonesia)
 -   [Redmi Note 14 Pro+ 5G (Amethyst)](https://t.me/RN14ProPlusID)
+-   [Redmi Note 15 (Spinel)](https://t.me/REDMINote15Indo)
+-   [Redmi Note 15 5G (Kunzite)](https://t.me/kunziteid)
+-   [Redmi Note 15 Pro 5G (Lapis)](https://t.me/RN15ProID)
+-   [Redmi Note 15 Pro+ 5G (Flourite)](https://t.me/FlouriteID)
 
 ## Mi/Xiaomi
 
