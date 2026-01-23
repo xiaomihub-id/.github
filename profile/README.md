@@ -145,7 +145,7 @@ Salam hangat,
 -   [POCO M8 Pro 5G (Flourite)](https://t.me/FlouriteID)
 
 ## POCO X Series
--   
+
 -   [POCO X3 NFC (Surya)](https://t.me/PocoX3ID)
 -   [POCO X3 Pro (Vayu-Bhima)](https://t.me/PocoX3ProIndonesia)
 -   [Poco X3 GT (Chopin)](https://t.me/PocoX3GTIndonesia)
