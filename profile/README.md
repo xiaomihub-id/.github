@@ -16,6 +16,7 @@ Salam hangat,
 
  -   [Redmi A1 (Ice)](https://t.me/RA1IND)
  -   [Redmi A2 (Water)](https://t.me/RA2_ID)
+ -   [Redmi A3 (Blue)](https://t.me/RedmiA3Indonesia)
  -   [Redmi A5 (Serenity)](https://t.me/RedmiA5Official)
  -   [Redmi 1S (Kaskus)](https://t.me/Redmi1S_Kaskus)
  -   [Redmi 2 Prime](https://t.me/r2pindo)
@@ -119,6 +120,7 @@ Salam hangat,
 -   [POCO C65 (Gust)](https://t.me/R13C_ID)
 -   [POCO C40 (Frost)](https://t.me/PocoC40ID)  
 -   [POCO C55 (Earth)](https://t.me/R12CIDG)
+-   [POCO C61 (Blue)](https://t.me/RedmiA3Indonesia)
 -   [POCO C71 (Serenity)](https://t.me/RedmiA5Official)
 -   [POCO C75 (Lake)](https://t.me/redmi14c_indo)
 
