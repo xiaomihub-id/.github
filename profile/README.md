@@ -47,6 +47,7 @@ Salam hangat,
  -   [Redmi 13 (Moon)](https://t.me/Redmi13ID)
  -   [Redmi 13C (Gust)](https://t.me/R13C_ID)
  -   [Redmi 14C (Lake)](https://t.me/redmi14c_indo)
+ -   [Redmi 15 (Creek)](https://t.me/CreekIndonesia)
  
 ## Redmi Note
 
@@ -130,6 +131,7 @@ Salam hangat,
 -   [POCO M5 (Stone)](https://t.me/PocoM5ID)
 -   [Poco M6 (Moon)](https://t.me/Redmi13ID)
 -   [Poco M6 Pro (Emerald)](https://t.me/EmeraldID)
+-   [POCO M7 (Creek)](https://t.me/CreekIndonesia)
 -   [POCO X3 NFC (Surya)](https://t.me/PocoX3ID)
 -   [POCO X3 Pro (Vayu-Bhima)](https://t.me/PocoX3ProIndonesia)
 -   [Poco X3 GT (Chopin)](https://t.me/PocoX3GTIndonesia)
