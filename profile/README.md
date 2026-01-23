@@ -12,12 +12,15 @@ Salam hangat,
 
 > Berikut adalah list link telegram group xiaomi indonesia.
 
-## REDMI
+## REDMI A Series
 
  -   [Redmi A1 (Ice)](https://t.me/RA1IND)
  -   [Redmi A2 (Water)](https://t.me/RA2_ID)
  -   [Redmi A3 (Blue)](https://t.me/RedmiA3Indonesia)
  -   [Redmi A5 (Serenity)](https://t.me/RedmiA5Official)
+
+## REDMI Series
+ 
  -   [Redmi 1S (Kaskus)](https://t.me/Redmi1S_Kaskus)
  -   [Redmi 2 Prime](https://t.me/r2pindo)
  -   [Redmi 3S/X (Land)](https://t.me/LandIndonesia)
@@ -50,6 +53,7 @@ Salam hangat,
  -   [Redmi 13C (Gust)](https://t.me/R13C_ID)
  -   [Redmi 14C (Lake)](https://t.me/redmi14c_indo)
  -   [Redmi 15 (Creek)](https://t.me/CreekIndonesia)
+ -   [Redmi 15C (Dew)](https://t.me/DewIndonesia)
  
 ## REDMI Note
 
@@ -123,6 +127,7 @@ Salam hangat,
 -   [POCO C61 (Blue)](https://t.me/RedmiA3Indonesia)
 -   [POCO C71 (Serenity)](https://t.me/RedmiA5Official)
 -   [POCO C75 (Lake)](https://t.me/redmi14c_indo)
+-   [POCO C85 (Dew)](https://t.me/DewIndonesia)
 
 ## POCO F Series
 
