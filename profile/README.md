@@ -55,7 +55,7 @@ Salam hangat,
  -   [Redmi 15 (Creek)](https://t.me/CreekIndonesia)
  -   [Redmi 15C (Dew)](https://t.me/DewIndonesia)
  
-## REDMI Note
+## REDMI Note Series
 
 -   [Redmi Note 2 (Hermes)](https://t.me/joinchat/Af3bdEEx_m1u8wFaiqmrNQ)
 -   [Redmi Note 3 Pro (Kenzo)](https://t.me/RN3ProIndonesia)
@@ -93,7 +93,7 @@ Salam hangat,
 -   [REDMI Note 15 Pro 5G (Lapis)](https://t.me/RN15ProID)
 -   [REDMI Note 15 Pro+ 5G (Flourite)](https://t.me/FlouriteID)
 
-## Mi
+## Mi Series
 
 -   [Mi Max2 (Oxygen)](http://t.me/MiMax2Indo)
 -   [Mi 4 (Cancro)](https://telegram.me/xiaomiMI4)
@@ -111,7 +111,7 @@ Salam hangat,
 -   [Mi 10 T/Pro Series (Apollo)](https://t.me/Mi10TSeriesID)
 -   [Mi 11 Series (Venus)](https://t.me/Mi11SeriesIndonesia)
 
-## Xiaomi
+## Xiaomi Series
 
 -   [Xiaomi 12 Lite (Taoyao)](https://t.me/Xiaomi12LiteID)
 -   [Xiaomi 12 Series](https://t.me/Xiaomi12SeriesID)
