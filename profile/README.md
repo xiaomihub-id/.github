@@ -107,7 +107,7 @@ Salam hangat,
 -   [Xiaomi 12 Series](https://t.me/Xiaomi12SeriesID)
 -   [Xiaomi 14T (Degas)](https://t.me/xiaomi14t_indo)
 -   [Xiaomi 14T Pro (Rothko)](https://t.me/Xiaomi14TProIndonesia)
-
+-   [Xiaomi 15T (Goya)](https://t.me/Xiaomi15TIndonesia)
 
 ## POCO
 
@@ -143,7 +143,7 @@ Salam hangat,
 
  - [Xiaomi Gamers Indonesia (Gamers Harus Join)](https://t.me/XiaomiGamersID)
  - [Xiaomi Photography Indonesia](https://t.me/XiaomiPhotographyID)
- - [Xiaomi Empire (Jual Beli & Membahas Device)](https://t.me/xiaomiempire)
+ - [Xiaomi Empire (Jual Beli, lelang & Membahas Device)](https://t.me/xiaomiempire)
  - [Mi Community Indonesia](https://t.me/MiTeleindonesia)
  - [Substratum Indonesia](https://t.me/substratumindonesia)
 
