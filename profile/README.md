@@ -49,7 +49,7 @@ Salam hangat,
  -   [Redmi 14C (Lake)](https://t.me/redmi14c_indo)
  -   [Redmi 15 (Creek)](https://t.me/CreekIndonesia)
  
-## Redmi Note
+## REDMI Note
 
 -   [Redmi Note 2 (Hermes)](https://t.me/joinchat/Af3bdEEx_m1u8wFaiqmrNQ)
 -   [Redmi Note 3 Pro (Kenzo)](https://t.me/RN3ProIndonesia)
@@ -82,19 +82,19 @@ Salam hangat,
 -   [Redmi Note 14 5G (Beryl)](https://t.me/BerylIndonesia)
 -   [Redmi Note 14  Pro 5G (Malachite)](https://t.me/MalachiteIndonesia)
 -   [Redmi Note 14 Pro+ 5G (Amethyst)](https://t.me/RN14ProPlusID)
--   [Redmi Note 15 (Spinel)](https://t.me/REDMINote15Indo)
--   [Redmi Note 15 5G (Kunzite)](https://t.me/kunziteid)
--   [Redmi Note 15 Pro 5G (Lapis)](https://t.me/RN15ProID)
--   [Redmi Note 15 Pro+ 5G (Flourite)](https://t.me/FlouriteID)
+-   [REDMI Note 15 (Spinel)](https://t.me/REDMINote15Indo)
+-   [REDMI Note 15 5G (Kunzite)](https://t.me/kunziteid)
+-   [REDMI Note 15 Pro 5G (Lapis)](https://t.me/RN15ProID)
+-   [REDMI Note 15 Pro+ 5G (Flourite)](https://t.me/FlouriteID)
 
-## Mi/Xiaomi
+## Mi
 
+-   [Mi Max2 (Oxygen)](http://t.me/MiMax2Indo)
 -   [Mi 4 (Cancro)](https://telegram.me/xiaomiMI4)
 -   [Mi 4C (Libra)](https://telegram.dog/joinchat/Af3bdEDpAkkznQP6geGPCg)
 -   [Mi 5/5S (Gemini/Capricorn)](http://t.me/GeminiIndonesia)
 -   [Mi A1 (Tissot)](https://t.me/MiAndroidOne_id)
 -   [Mi A2 (Jasmine)](https://t.me/MiA2Series_ID)
--   [Mi Max2 (Oxygen)](http://t.me/MiMax2Indo)
 -   [Mi 6 (Sagit)](https://t.me/mi6indonesia)
 -   [Mi 6X (Wayne)](https://t.me/Mi6XGroup)
 -   [Mi 8 Lite (Platina)](https://t.me/mi8liteindonesia)
@@ -104,18 +104,24 @@ Salam hangat,
 -   [Mi 10 Series (Apollo)](https://t.me/XiaomiMi10Indonesia)
 -   [Mi 10 T/Pro Series (Apollo)](https://t.me/Mi10TSeriesID)
 -   [Mi 11 Series (Venus)](https://t.me/Mi11SeriesIndonesia)
+
+## Xiaomi
+
 -   [Xiaomi 12 Lite (Taoyao)](https://t.me/Xiaomi12LiteID)
 -   [Xiaomi 12 Series](https://t.me/Xiaomi12SeriesID)
 -   [Xiaomi 14T (Degas)](https://t.me/xiaomi14t_indo)
 -   [Xiaomi 14T Pro (Rothko)](https://t.me/Xiaomi14TProIndonesia)
 -   [Xiaomi 15T (Goya)](https://t.me/Xiaomi15TIndonesia)
 
-## POCO
+## POCO C Series
 
 -   [POCO C65 (Gust)](https://t.me/R13C_ID)
 -   [POCO C40 (Frost)](https://t.me/PocoC40ID)  
 -   [POCO C55 (Earth)](https://t.me/R12CIDG)
 -   [POCO C75 (Lake)](https://t.me/redmi14c_indo)
+
+## POCO F Series
+
 -   [POCO F1 (Beryllium)](https://t.me/PocophoneIndonesiaOfficial)
 -   [POCO F2 Pro (LMI)](https://t.me/pocof2proindonesia)
 -   [POCO F3 (Alioth)](https://t.me/PocoF3ID)
@@ -125,6 +131,9 @@ Salam hangat,
 -   [POCO F6 (Peridot)](https://t.me/PocoF6Indo)
 -   [POCO F7 (Onyx)](https://t.me/PocoF7IndonesiaGroup)
 -   [POCO F7 Pro (Zorn)](https://t.me/PocoF7ProIndonesia)
+
+## POCO M Series
+
 -   [POCO M3 (Juice)](https://t.me/JuiceDiscussionID)
 -   [POCO M3 Pro (Camellian)](https://t.me/CamellianIndonesia)   
 -   [POCO M4 Pro (Fleur)](https://t.me/pocom4proindonesia)
@@ -134,6 +143,9 @@ Salam hangat,
 -   [POCO M7 (Creek)](https://t.me/CreekIndonesia)
 -   [POCO M8 (Creek)](https://t.me/kunziteid)
 -   [POCO M8 Pro 5G (Flourite)](https://t.me/FlouriteID)
+
+## POCO X Series
+-   
 -   [POCO X3 NFC (Surya)](https://t.me/PocoX3ID)
 -   [POCO X3 Pro (Vayu-Bhima)](https://t.me/PocoX3ProIndonesia)
 -   [Poco X3 GT (Chopin)](https://t.me/PocoX3GTIndonesia)
