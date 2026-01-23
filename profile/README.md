@@ -132,6 +132,8 @@ Salam hangat,
 -   [Poco M6 (Moon)](https://t.me/Redmi13ID)
 -   [Poco M6 Pro (Emerald)](https://t.me/EmeraldID)
 -   [POCO M7 (Creek)](https://t.me/CreekIndonesia)
+-   [POCO M8 (Creek)](https://t.me/kunziteid)
+-   [POCO M8 Pro 5G (Flourite)](https://t.me/FlouriteID)
 -   [POCO X3 NFC (Surya)](https://t.me/PocoX3ID)
 -   [POCO X3 Pro (Vayu-Bhima)](https://t.me/PocoX3ProIndonesia)
 -   [Poco X3 GT (Chopin)](https://t.me/PocoX3GTIndonesia)
