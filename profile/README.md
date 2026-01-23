@@ -101,6 +101,7 @@ Salam hangat,
 -   [Mi 11 Series (Venus)](https://t.me/Mi11SeriesIndonesia)
 -   [Xiaomi 12 Lite (Taoyao)](https://t.me/Xiaomi12LiteID)
 -   [Xiaomi 12 Series](https://t.me/Xiaomi12SeriesID)
+-   [Xiaomi 14T (Degas)](https://t.me/xiaomi14t_indo)
 -   [Xiaomi 14T Pro (Rothko)](https://t.me/Xiaomi14TProIndonesia)
 
 
