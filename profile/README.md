@@ -115,6 +115,7 @@ Salam hangat,
 
 -   [Xiaomi 12 Lite (Taoyao)](https://t.me/Xiaomi12LiteID)
 -   [Xiaomi 12 Series](https://t.me/Xiaomi12SeriesID)
+-   [Xiaomi 14 (Houji)](https://t.me/Xiaomi_14ID)
 -   [Xiaomi 14T (Degas)](https://t.me/xiaomi14t_indo)
 -   [Xiaomi 14T Pro (Rothko)](https://t.me/Xiaomi14TProIndonesia)
 -   [Xiaomi 15T (Goya)](https://t.me/Xiaomi15TIndonesia)
