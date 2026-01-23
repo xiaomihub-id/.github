@@ -12,7 +12,7 @@ Salam hangat,
 
 > Berikut adalah list link telegram group xiaomi indonesia.
 
-## Redmi
+## REDMI
 
  -   [Redmi A1 (Ice)](https://t.me/RA1IND)
  -   [Redmi A2 (Water)](https://t.me/RA2_ID)
