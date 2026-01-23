@@ -138,6 +138,7 @@ Salam hangat,
 -   [POCO M3 Pro (Camellian)](https://t.me/CamellianIndonesia)   
 -   [POCO M4 Pro (Fleur)](https://t.me/pocom4proindonesia)
 -   [POCO M5 (Stone)](https://t.me/PocoM5ID)
+-   [POCO M5s (Rosemary)](https://t.me/RedmiNote10SIndonesia)
 -   [POCO M6 (Moon)](https://t.me/Redmi13ID)
 -   [POCO M6 Pro (Emerald)](https://t.me/EmeraldID)
 -   [POCO M7 (Creek)](https://t.me/CreekIndonesia)
