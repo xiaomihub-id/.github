@@ -141,6 +141,7 @@ Salam hangat,
 -   [POCO F6 (Peridot)](https://t.me/PocoF6Indo)
 -   [POCO F7 (Onyx)](https://t.me/PocoF7IndonesiaGroup)
 -   [POCO F7 Pro (Zorn)](https://t.me/PocoF7ProIndonesia)
+-   [POCO F7 Ultra (Miro)](https://t.me/PocoF7UltraIndonesia)
 
 ## POCO M Series
 
