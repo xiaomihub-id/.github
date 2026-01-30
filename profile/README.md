@@ -142,6 +142,7 @@ Salam hangat,
 -   [POCO F7 (Onyx)](https://t.me/PocoF7IndonesiaGroup)
 -   [POCO F7 Pro (Zorn)](https://t.me/PocoF7ProIndonesia)
 -   [POCO F7 Ultra (Miro)](https://t.me/PocoF7UltraIndonesia)
+-   [POCO F8 Series](https://t.me/PocoF8Indo)
 
 ## POCO M Series
 
