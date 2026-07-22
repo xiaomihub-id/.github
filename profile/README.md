@@ -167,6 +167,7 @@ Salam hangat,
 -   [POCO X6 5G (Garnet)](https://t.me/GarnetIndonesia)
 -   [POCO X6 Pro 5G (Duchamp)](https://t.me/pocox6proid)
 -   [POCO X7 Pro (Rodin)](https://t.me/PocoX7ProIDChat)
+-   [POCO X8 Pro (Klee)](https://t.me/PocoX8ProINA)
 
 # Beberapa Komunitas Terintegrasi
 
